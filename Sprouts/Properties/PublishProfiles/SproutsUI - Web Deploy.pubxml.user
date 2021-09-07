@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFLsuNVwQQUilbzChKyBi2gAAAAACAAAAAAAQZgAAAAEAACAAAAAhWTiDzigYF5apvnZWNvybdGX6aAxugTkxJCOn8O4/zwAAAAAOgAAAAAIAACAAAACdCplFA00EUoOVWdAlMHGrfdEX5Hmq9sdKsF0+BGqW1IAAAADnMV3AW7fEa+ko/ko7L88ajd22mP8eNDxnGfLYBrlBmPn8uOT/eHlV5JNEg5BXCmeHaIhHsR+g9JcK1GynaZqOpNnb7Uv23h0ycpevzMK1206FbMt69nULfsS0JrZsUwQLExpbDg3IBEoJGTVcXB65T/9fViKLe8728i3yPIFzSkAAAADmqT/75HgNoHELUymNgbxHyw8KwMr93RIZJYvS9dm2H8lT0SPuBcZdq7xTYcMktmBJuhE/ocGYtpqYOwZvLxcI</EncryptedPassword>
+    <History>True|2021-08-30T03:39:59.8747779Z;True|2021-08-29T01:10:19.6827391+12:00;True|2021-08-29T00:44:41.7531358+12:00;False|2021-08-29T00:41:43.9465656+12:00;True|2021-08-29T00:35:16.0282306+12:00;False|2021-08-29T00:25:34.2961960+12:00;True|2021-08-29T00:16:04.2700288+12:00;False|2021-08-29T00:11:23.3590438+12:00;True|2021-08-28T22:36:13.2690625+12:00;True|2021-08-28T22:34:41.8379814+12:00;True|2021-08-28T22:20:15.1426010+12:00;True|2021-08-28T22:18:58.0213031+12:00;True|2021-08-28T22:07:13.4701098+12:00;True|2021-08-28T22:00:58.2465732+12:00;True|2021-08-28T21:57:05.0603016+12:00;True|2021-08-28T21:31:46.8281442+12:00;True|2021-08-28T21:29:25.4539397+12:00;True|2021-08-28T21:21:24.3084655+12:00;True|2021-08-28T20:52:11.5088633+12:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="Sprouts.Data.AppDbContext">
+      <Value>Data Source=tcp:echo718.database.windows.net,1433%3bInitial Catalog=Sprouts%3bUser Id=echo718%40echo718%3bPassword=920718.Com</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
